@@ -1,2 +1,2 @@
 # ESXi-Lab
-EPHEC Network Administration Lab
+EPHEC Labos « Administration des réseaux »
